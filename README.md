@@ -25,4 +25,5 @@
 ## Future plans
 
     - Set up ci/cd for better/safer deployment
+    - move from render to VPS
         
